@@ -1,0 +1,28 @@
+body{
+    font-family: 'Foldit', cursive;
+    font-size: 30px;
+    background-color: black;
+}
+.header_div{
+    background-color: black;
+}
+.header_div p{
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 20px; 
+}
+.main_div button{
+    font-family: 'Foldit', cursive;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px; 
+    background-color:blue;
+}
+.copyright{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
